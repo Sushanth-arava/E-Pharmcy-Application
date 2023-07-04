@@ -1,0 +1,11 @@
+@media (max-width: 421px) {
+  .card_width_height {
+    width: 100% !important;
+    height: 300px;
+  }
+}
+.card_width_height {
+  width: 180px;
+  height: 300px;
+}
+
